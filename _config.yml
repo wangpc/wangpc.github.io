@@ -23,7 +23,7 @@ email: wangpc.hex@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ZJay Studio is an independent developer studio founded in 2023, committed to developing small and beautiful mobile tools for a better life, improving people's sense of happiness, and enhancing the efficiency of life and work.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wangpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wangpc
 github_username: wangpc
 
